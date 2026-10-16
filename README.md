@@ -3,7 +3,7 @@
 Plain HTML, CSS and JavaScript. No build step needed.
 
 ## Files
-- index.html: all four pages (Home, FashionTech, Garment Manufacturing, Workforce Upscaling). Pages switch using the address hash (#home, #fashiontech, #manufacturing, #workforce).
+- index.html: all four pages (Home, FashionTech, Garment Manufacturing, Workforce Upskilling). Pages switch using the address hash (#home, #fashiontech, #manufacturing, #workforce).
 - styles.css: all styling. Colours are the variables at the top (:root and .dk).
 - script.js: page switching, form tabs, form/email thank-you messages.
 - assets/: put the logo and photos here.
